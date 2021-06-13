@@ -1,1 +1,2 @@
 Its first line of file to be commited.
+Its second line after pull data from repositories.
